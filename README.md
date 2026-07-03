@@ -8,6 +8,11 @@ The project demonstrates core SQL concepts that are commonly used by Data Analys
 
 ---
 
+<img width="1470" height="956" alt="Screenshot 2026-07-03 at 10 42 02 AM" src="https://github.com/user-attachments/assets/38258b3a-80df-4bf2-9c96-7eaef7d44af5" />
+
+---
+
+
 ## 🎯 Objectives
 
 - Analyze patient demographics
